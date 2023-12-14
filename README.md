@@ -6,3 +6,5 @@ Neste repositório contem um projeto realizado por mim durante a conclusão do c
 -Utilização do método melt() para modificar o formato de um dataframe, transformando diversas colunas em apenas duas colunas: uma com as categorias e outra com os valores numéricos (wide e long).
 -Utilização do método merge() para união (Join) entre dois DataFrames.
 -Entre outos aprendizados diversos durante a aplicação do conhecimendo adiquirido em prática
+
+Obs: Ao tentar rodar o Notebook atente-se ao nome do arquivo e o caminho e adapte o código conforme necessário
